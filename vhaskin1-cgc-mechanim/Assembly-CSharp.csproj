@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Gem\Script\Audio.cs" />
      <Compile Include="Assets\Scripts\Event.cs" />
      <Compile Include="Assets\Scripts\MecanimControl.cs" />
  <Reference Include="UnityEngine.UI">
